@@ -34,11 +34,11 @@
 3. Follow on-screen instructions to use Text Recognition, Object Detection, Face Recognition, and the AI Chatbot.
 
 ## Screenshots
-
-![Text Recognition](screenshots/text_recognition.png)
-![Object Detection](screenshots/object_detection.png)
-![Face Recognition](screenshots/face_recognition.png)
-![AI Chatbot](screenshots/ai_chatbot.png)
+![Home Screen](screenshots/phoneinhand.png)
+![Chatbot](screenshots/chatbot.png)
+![Text Recognition](screenshots/textrecognition.png)
+![Object Detection](screenshots/objectrecognition.png)
+![Face Recognition](screenshots/facerecognition.png)
 
 ## Contributing
 
