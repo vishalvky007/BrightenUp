@@ -35,7 +35,7 @@
 
 ## Screenshots
 <p>
-<img src="screenshots/phoneinhand.png" alt="Home Screen" width="500">
+<img src="screenshots/phoneinhand.png" alt="Home Screen" width="400">
 <img src="screenshots/chatbot.png" alt="Chatbot" width="300">
 <img src="screenshots/textrecognition.png" alt="Text Recognition" width="300">
 <img src="screenshots/objectrecognition.png" alt="Object Detection" width="300">
